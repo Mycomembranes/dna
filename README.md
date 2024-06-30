@@ -1,0 +1,1 @@
+Hi, all of the work here is in very early phases of development. I thought it was more important to get out my novel ideas so the universe of scientists could build on my ideas. The manuscripts are not in final form, nor have I extensively been able to simulate long pieces of DNA because the computations are large.

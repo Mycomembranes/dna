@@ -1,10 +1,10 @@
 # README for Quantum Mechanics and Biological Systems Research Repository
 
-### Overview - PLEASE note that everything here is preliminary and will be updated in the future. You might notice references are missing, and that's because I generated these models using the help of various AI models. The original author's of the models are embedded in the name (i.e., Schrödinger, Hamilton(ian) and others). In this format, all my work are preprints. The novel ideas are all mine tho :). I just don't have the time right now to continue working on this, so I figure I'd release it here on Github for any lucky human that happens to stumble upon my repo :)  
-
+## Overview 
 Welcome to the Quantum Mechanics and Biological Systems Research Repository. This repository contains detailed mathematical frameworks, simulations, and research papers authored by Mukshud Ahamed. The research explores the intersection of quantum mechanics, cosmic structure formation, DNA evolution, and consciousness. This README provides an overview of the documents and their contents to guide your understanding and usage of the repository.
 
 ## Contents
+PLEASE note that everything here is preliminary and will be updated in the future. You might notice references are missing, and that's because I generated these models using the help of various AI models. The original author's of the models are embedded in the name (i.e., Schrödinger, Hamilton(ian) and others). In this format, all my work are preprints. The novel ideas are all mine tho :). I just don't have the time right now to continue working on this, so I figure I'd release it here on Github for any lucky human that happens to stumble upon my repo :)  
 
 ### 1. Quantum State Evolution of DNA Sequences
 

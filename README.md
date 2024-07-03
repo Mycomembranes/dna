@@ -30,7 +30,7 @@ Understanding the quantum evolution of DNA sequences could provide insights into
 - **Hamiltonian for Biological Systems:** Details the Hamiltonian for biological systems, including DNA, and its role in governing quantum state evolution.
 - **Time Evolution of Quantum States:** Discusses the time-dependent Schrödinger equation and how it describes the evolution of quantum states over time.
 - **Quantum Tunneling in Biochemical Reactions:** Examines the role of quantum tunneling in biochemical reactions, explaining how particles can pass through potential barriers.
-- **Quantum Entanglement in Biological Systems:** Investigates the phenomenon of quantum entanglement and its implications for biological systems.
+- **Quantum Entanglement in Biological Systems:** Investigates the phenomenon of quantum entanglement and its implications for biological systems including conciousness.
 
 **Potential Implications:**
 This research could revolutionize our understanding of biochemical reactions and neural processes, potentially leading to advancements in fields such as neurology, cognitive science, and bioinformatics.

@@ -19,7 +19,7 @@ Welcome to the Quantum Mechanics and Biological Systems Research Repository. Thi
 **Potential Implications:**
 Understanding the quantum evolution of DNA sequences could provide insights into the fundamental processes of life at a quantum level, potentially leading to new discoveries in genetics, biochemistry, and molecular biology.
 
-**File:** [DNA.quantum.microstates.pdf](dna/DNA.quantum.microstates.pdf)
+**File:** [DNA.quantum.microstates.pdf](/DNA.quantum.microstates.pdf)
 
 ### 2. Quantum Simulation with Tunneling and Spike-Timing-Dependent Plasticity (STDP)
 
@@ -35,7 +35,7 @@ Understanding the quantum evolution of DNA sequences could provide insights into
 **Potential Implications:**
 This research could revolutionize our understanding of biochemical reactions and neural processes, potentially leading to advancements in fields such as neurology, cognitive science, and bioinformatics.
 
-**File:** [DNA.Quantum.STDP.tunneling.pdf](dna/DNA.Quantum.STDP.tunneling.pdf)
+**File:** [DNA.Quantum.STDP.tunneling.pdf](/DNA.Quantum.STDP.tunneling.pdf)
 
 ### 3. A Unified Quantum Framework for Cosmic and Biological Evolution
 
@@ -52,7 +52,7 @@ This research could revolutionize our understanding of biochemical reactions and
 **Potential Implications:**
 Integrating quantum mechanics across diverse fields such as cosmology, biology, and consciousness could lead to groundbreaking insights and new interdisciplinary research avenues.
 
-**File:** [integrated.models.pdf](dna/integrated.models.pdf)
+**File:** [integrated.models.pdf](/integrated.models.pdf)
 
 ### 4. Quantum Mechanics in Cosmic Structure Formation: Dark Matter as a Cosmic Sponge
 
@@ -69,7 +69,7 @@ Integrating quantum mechanics across diverse fields such as cosmology, biology, 
 **Potential Implications:**
 This research could significantly enhance our understanding of dark matter and its role in the universe, potentially leading to new discoveries in cosmology and astrophysics.
 
-**File:** [darkmatter.pdf](dna/darkmatter.pdf)
+**File:** [darkmatter.pdf](/darkmatter.pdf)
 
 ### 5. A Quantum Mechanical Model of Interdimensional Interaction and Resonance
 
@@ -86,7 +86,7 @@ This research could significantly enhance our understanding of dark matter and i
 **Potential Implications:**
 This research could open up new frontiers in our understanding of quantum mechanics and its applications to multidimensional and theoretical physics.
 
-**File:** [Quantumnexus-2.pdf](dna/Quantumnexus-2.pdf)
+**File:** [Quantumnexus-2.pdf](/Quantumnexus-2.pdf)
 
 ## How to Use This Repository
 

@@ -105,4 +105,4 @@ This repository is licensed under the MIT License. See the [LICENSE](path/to/LIC
 
 ---
 
-Thank you for exploring the intersection of quantum mechanics and biological systems through this repository. Your interest and contributions are invaluable to advancing this groundbreaking research.
+Thank you for exploring the intersection of quantum mechanics and biological systems through this repository. Your interest and contributions are invaluable to advancing this research.

@@ -101,7 +101,7 @@ For any questions or collaboration inquiries, please contact Mukshud Ahamed
 
 ## License
 
-This repository is licensed under the MIT License. See the [LICENSE](path/to/LICENSE) file for more information.
+This repository is licensed under the APACHE License file for more information.
 
 ---
 
